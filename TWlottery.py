@@ -153,25 +153,7 @@ while True :
         print("猜大小 :",data2.find("div",{"class" : "ball_blue_BB1"}).text)
         print("猜單雙 :",data2.find("div",{"class" : "ball_blue_BB2"}).text)
             
-        
             
-        
-        
-         
-            
-        
-        
-            
-        
-        
-        
-             
-            
-             
-             
-       
-        
-    
     elif SearchResult == "" :
         
         
