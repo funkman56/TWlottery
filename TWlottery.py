@@ -155,10 +155,8 @@ while True :
             
             
     elif SearchResult == "" :
-        
-        
-        break
-        
+               
+        break        
 
     else :
                    
